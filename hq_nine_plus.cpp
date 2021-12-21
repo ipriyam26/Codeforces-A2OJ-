@@ -9,7 +9,7 @@ int main()
 {
 string n;
 cin>>n;
-string search = "HQ9+";
+string search = "HQ9";
 for (int i = 0; i < n.length(); i++)
 {
     for (int j = 0; j < search.length(); j++)
