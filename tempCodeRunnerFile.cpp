@@ -1,7 +1,22 @@
 
 
-    end = clock();
-    double time_taken = double(end - start) / double(CLOCKS_PER_SEC);
- cout << "Time taken by program is : " << fixed
-         << time_taken<< setprecision(5);
-    cout << " sec " << endl;
+#include <iostream>
+#include <cstdio>
+#include <iomanip>
+#include <stdio.h>
+#include <vector>
+
+
+using namespace std;
+
+int main()
+{
+
+int n,first,second;
+scanf("%d",&n);
+
+
+cout<<n;
+
+    return 0;
+}

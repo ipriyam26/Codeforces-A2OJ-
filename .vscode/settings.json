@@ -5,6 +5,10 @@
         "iostream": "cpp",
         "string": "cpp",
         "ostream": "cpp",
-        "queue": "cpp"
-    }
+        "queue": "cpp",
+        "algorithm": "cpp",
+        "map": "cpp"
+    },
+    "explorer.autoReveal": true,
+    "C_Cpp.dimInactiveRegions": true
 }
